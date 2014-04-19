@@ -1,5 +1,7 @@
 #datetime-localizer.js
 
+<a href="http://jsbin.com/xusalere/2/">Demo</a>
+
 What Localizer does is to convert a date/time string into the end user's timezone.
 
 For example, our server outputs the following HTML and datetime string:
